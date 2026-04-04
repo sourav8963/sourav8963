@@ -16,8 +16,6 @@
   <img src="https://github-readme-stats.vercel.app/api?username=sourav8963&theme=tokyonight&show_icons=true&count_private=true" alt="GitHub Stats" />
   <br/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=sourav8963&theme=tokyonight" alt="GitHub Streak" />
-  <br/>
-  <img src="https://github-readme-stats-one-eight.vercel.app/api/top-langs/?username=sourav8963&theme=tokyonight&layout=compact" alt="Top Languages" />
 </div>
 <br/>
 <p align="center">
