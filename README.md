@@ -22,5 +22,10 @@
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=sourav8963&label=Profile%20Views&color=0078d7&style=flat-square" alt="Visitor Count" />
 </p>
-
+<table>
+  <tr>
+    <td><img src="https://github-readme-stats.vercel.app/api?username=sourav8963&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true" /></td>
+    <td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sourav8963&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact" /></td>
+  </tr>
+</table>
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
