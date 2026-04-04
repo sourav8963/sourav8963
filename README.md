@@ -11,15 +11,16 @@
 
 ---
 # 📊 GitHub Stats
+
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=sourav8963&theme=tokyonight&show_icons=true&count_private=true" alt="GitHub Stats" />
   <br/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=sourav8963&theme=tokyonight" alt="GitHub Streak" />
   <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sourav8963&theme=tokyonight&layout=compact" alt="Top Languages" />
+  <img src="https://github-readme-stats-one-eight.vercel.app/api/top-langs/?username=sourav8963&theme=tokyonight&layout=compact" alt="Top Languages" />
 </div>
 <p align="center">
-  <img src="https://visitcount.itsvg.in/api?id=sourav8963&label=Profile%20Views&color=0&icon=0" alt="Visitor Count" />
+  <img src="https://komarev.com/ghpvc/?username=sourav8963&label=Profile%20Views&color=0078d7&style=flat-square" alt="Visitor Count" />
 </p>
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
