@@ -1,8 +1,7 @@
-```markdown
-# 🎉 Hi there! I'm **Sourav Kumar**  
+# 🎉 Hi there! I'm **Sourav Kumar**
 **3rd‑year B.Tech Computer Science Engineering** student | Passionate about turning ideas into elegant, scalable solutions  
 
----
+<br/>
 
 ## 🌟 About Me
 - 👨‍💻 **Tech Enthusiast** – love coding, algorithms, and data structures.  
@@ -10,7 +9,19 @@
 - 🤝 **Open to Collaboration** – beginner to intermediate projects, always eager to learn from the community.  
 - 🚀 **Goal** – continuously grow as a developer and build efficient, scalable solutions.
 
----
+
+[![](https://visitcount.itsvg.in/api?id=Sourav8963&icon=1&color=0)](https://visitcount.itsvg.in)
+<br/>
+
+## 📱 Socials
+
+<p align="left">
+  <a href="https://instagram.com/Sourav_8963"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"></a>
+  <a href="https://linkedin.com/in/Souravkumar"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="mailto:sourav12729@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
+</p>
+
+<br/>
 
 ## 📚 Tech Stack
 
@@ -37,46 +48,143 @@
   <a href="https://git-scm.com/"><img src="https://img.shields.io/badge/Git-%23F05033.svg?style=flat-square&logo=git&logoColor=white" alt="Git"></a>
 </div>
 
----
+<br/>
+<!-- ====================== Projects ====================== -->
+<h2>🚀 My Top Projects</h2>
+<div style="
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(260px, 1fr));
+  gap: 1.5rem;
+  margin-top: 1rem;
+">
+  <!-- FinSight -->
+  <div style="
+    background: rgba(255,255,255,0.08);
+    border-radius: 12px;
+    padding: 1.2rem;
+    border: 1px solid rgba(255,255,255,0.15);
+    backdrop-filter: blur(6px);
+    transition: transform .2s, box-shadow .2s;
+    text-align: left;
+    color: var(--color-fg-default);
+  " onmouseover="this.style.transform='translateY(-4px)'; this.style.boxShadow='0 8px 20px rgba(0,0,0,0.25)';"
+     onmouseout="this.style.transform='none'; this.style.boxShadow='none';">
+    <h3 style="margin:0 0 .4rem;font-size:1.2rem;color:#ffcc00;">📊 FinSight</h3>
+    <p style="margin:.4rem 0 0;font-size:.9rem;line-height:1.4;">
+      Modern finance‑dashboard SPA that visualises transactions, budgets, and forecasts. Powered by <strong>React</strong>, <strong>Zustand</strong> and a glass‑morphism UI.
+    </p>
+    <a href="https://github.com/sourav8963/finsight" target="_blank"
+       style="
+         display:inline-block;
+         margin-top:.6rem;
+         font-size:.75rem;
+         background:#0d1117;
+         color:#c9d1d9;
+         padding:.2rem .5rem;
+         border-radius:4px;
+         text-decoration:none;
+       ">GitHub →</a>
+  </div>
+  <!-- BitPass -->
+  <div style="
+    background: rgba(255,255,255,0.08);
+    border-radius: 12px;
+    padding: 1.2rem;
+    border: 1px solid rgba(255,255,255,0.15);
+    backdrop-filter: blur(6px);
+    transition: transform .2s, box-shadow .2s;
+    text-align: left;
+    color: var(--color-fg-default);
+  " onmouseover="this.style.transform='translateY(-4px)'; this.style.boxShadow='0 8px 20px rgba(0,0,0,0.25)';"
+     onmouseout="this.style.transform='none'; this.style.boxShadow='none';">
+    <h3 style="margin:0 0 .4rem;font-size:1.2rem;color:#ffcc00;">🔐 BitPass</h3>
+    <p style="margin:.4rem 0 0;font-size:.9rem;line-height:1.4;">
+      Secure password‑less authentication service using WebAuthn & JWT. Backend in <strong>FastAPI</strong>, data stored in <strong>MongoDB</strong>, deployed on Azure.
+    </p>
+    <a href="https://github.com/sourav8963/bitpass" target="_blank"
+       style="
+         display:inline-block;
+         margin-top:.6rem;
+         font-size:.75rem;
+         background:#0d1117;
+         color:#c9d1d9;
+         padding:.2rem .5rem;
+         border-radius:4px;
+         text-decoration:none;
+       ">GitHub →</a>
+  </div>
+  <!-- CareFlow -->
+  <div style="
+    background: rgba(255,255,255,0.08);
+    border-radius: 12px;
+    padding: 1.2rem;
+    border: 1px solid rgba(255,255,255,0.15);
+    backdrop-filter: blur(6px);
+    transition: transform .2s, box-shadow .2s;
+    text-align: left;
+    color: var(--color-fg-default);
+  " onmouseover="this.style.transform='translateY(-4px)'; this.style.boxShadow='0 8px 20px rgba(0,0,0,0.25)';"
+     onmouseout="this.style.transform='none'; this.style.boxShadow='none';">
+    <h3 style="margin:0 0 .4rem;font-size:1.2rem;color:#ffcc00;">❤️ CareFlow</h3>
+    <p style="margin:.4rem 0 0;font-size:.9rem;line-height:1.4;">
+      Tele‑health platform for patient records, appointments, and video consultations. Built with <strong>Django</strong>, <strong>React</strong> and Stripe integration.
+    </p>
+    <a href="https://github.com/sourav8963/careflow" target="_blank"
+       style="
+         display:inline-block;
+         margin-top:.6rem;
+         font-size:.75rem;
+         background:#0d1117;
+         color:#c9d1d9;
+         padding:.2rem .5rem;
+         border-radius:4px;
+         text-decoration:none;
+       ">GitHub →</a>
+  </div>
+  <!-- Nox (last) -->
+  <div style="
+    background: rgba(255,255,255,0.08);
+    border-radius: 12px;
+    padding: 1.2rem;
+    border: 1px solid rgba(255,255,255,0.15);
+    backdrop-filter: blur(6px);
+    transition: transform .2s, box-shadow .2s;
+    text-align: left;
+    color: var(--color-fg-default);
+  " onmouseover="this.style.transform='translateY(-4px)'; this.style.boxShadow='0 8px 20px rgba(0,0,0,0.25)';"
+     onmouseout="this.style.transform='none'; this.style.boxShadow='none';">
+    <h3 style="margin:0 0 .4rem;font-size:1.2rem;color:#ffcc00;">🔧 Nox</h3>
+    <p style="margin:.4rem 0 0;font-size:.9rem;line-height:1.4;">
+      YouTube Cinema Dimmer 🌙 – a lightweight, cross‑platform CLI tool for dimming YouTube videos. Built with <strong>Node.js</strong> & <strong>TypeScript</strong>.
+    </p>
+    <a href="https://github.com/sourav8963/Nox" target="_blank"
+       style="
+         display:inline-block;
+         margin-top:.6rem;
+         font-size:.75rem;
+         background:#0d1117;
+         color:#c9d1d9;
+         padding:.2rem .5rem;
+         border-radius:4px;
+         text-decoration:none;
+       ">GitHub →</a>
+  </div>
+</div>
+
+
+
+<br/>
 
 ## 📈 GitHub Stats
 
 <div align="center">
-  <a href="https://github.com/sourav8963"><img src="https://github-readme-stats.vercel.app/api?username=sourav8963&show_icons=true&theme=radical&locale=en" alt="GitHub Stats"></a>
+  <a href="https://github.com/sourav8963"></a>
   <a href="https://github.com/sourav8963"><img src="https://github-readme-streak-stats.herokuapp.com/?user=sourav8963&theme=radical" alt="GitHub Streak"></a>
-  <a href="https://github.com/sourav8963"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=sourav8963&layout=compact&theme=radical" alt="Top Languages"></a>
+  <a href="https://github.com/sourav8963"></a>
 </div>
+<br/>
 
----
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=Sourav8963&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
 
-## 🏆 GitHub Trophies
 
-<div align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sourav8963&theme=radical" alt="GitHub Trophies"></a>
-</div>
-
----
-
-## 🔝 Top Contributed Repositories
-
-<div align="center">
-  <img src="https://github-contributor-stats.vercel.app/api?username=Sourav8963&limit=5&theme=radical&combine_all_yearly_contributions=true" alt="Top Contributed Repos">
-</div>
-
----
-
-## 📱 Socials
-
-<p align="center">
-  <a href="https://instagram.com/Sourav_8963"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"></a>
-  <a href="https://linkedin.com/in/Souravkumar"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-  <a href="mailto:sourav12729@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
-</p>
-
----
-
-## 👀 Visitor Counter
-
-<p align="center">
-  <a href="https://visitcount.itsvg.in/"><img src="https://visitcount.itsvg.in/api?id=Sourav8963&icon=1&color=0" alt="Visitor Count"></a>
-</p>
