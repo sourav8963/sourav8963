@@ -50,12 +50,15 @@
 
 <br/>
 <!-- ====================== Projects ====================== -->
-| Project | Description |
-|:--------|:------------|
-| [FinSight](https://github.com/sourav8963/finsight) | Modern finance‑dashboard SPA that visualises transactions, budgets & forecasts. Built with **React**, **Zustand** and a glass‑morphism UI. |
-| [BitPass](https://github.com/sourav8963/bitpass) | Password‑less authentication service using WebAuthn & JWT. Backend in **FastAPI**, data stored in **MongoDB**, hosted on Azure. |
-| [CareFlow](https://github.com/sourav8963/careflow) | Tele‑health platform for patient records, appointments & video consultations. Built with **Django**, **React** and Stripe integration. |
-| [Nox](https://github.com/sourav8963/Nox) | YouTube Cinema Dimmer 🌙 – a lightweight, cross‑platform CLI tool for dimming YouTube videos. Built with **Node.js** & **TypeScript**. |
+<h2 align="center"> 🗂️ Projects </h2>
+
+| <div align="center">Project Name</div> | Description |
+|:---:|:---|
+| <br>[**FinSight**](https://github.com/sourav8963/finsight)<br><br> | Modern finance‑dashboard SPA that visualises transactions, budgets & forecasts. Built with **React**, **Zustand** and a glass‑morphism UI. |
+| <br>[**BitPass**](https://github.com/sourav8963/bitpass)<br><br> | Password‑less authentication service using WebAuthn & JWT. Backend in **FastAPI**, data stored in **MongoDB**, hosted on Azure. |
+| <br>[**CareFlow**](https://github.com/sourav8963/careflow)<br><br> | Tele‑health platform for patient records, appointments & video consultations. Built with **Django**, **React** and Stripe integration. |
+| <br>[**Nox**](https://github.com/sourav8963/Nox)<br><br> | YouTube Cinema Dimmer 🌙 – a lightweight, cross‑platform CLI tool for dimming YouTube videos. Built with **Node.js** & **TypeScript**. |
+
 
 <br/>
 
