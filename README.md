@@ -1,8 +1,6 @@
 # 🎉 Hi there! I'm **Sourav Kumar**
 **3rd‑year B.Tech Computer Science Engineering** student | Passionate about turning ideas into elegant, scalable solutions  
 
-<br/>
-
 ## 🌟 About Me
 - 👨‍💻 **Tech Enthusiast** – love coding, algorithms, and data structures.  
 - 🌱 **Learning** – web development, databases, and core CS concepts.  
